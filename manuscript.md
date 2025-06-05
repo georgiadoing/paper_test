@@ -1,5 +1,5 @@
 ---
-title: Manuscript Title
+title: A manubot test
 keywords:
 - markdown
 - publishing
@@ -7,8 +7,8 @@ keywords:
 lang: en-US
 date-meta: '2025-06-05'
 author-meta:
-- John Doe
-- Jane Roe
+- Georgia Doing
+- Julia Oh
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -16,38 +16,38 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="A manubot test" />
+  <meta name="citation_title" content="A manubot test" />
+  <meta property="og:title" content="A manubot test" />
+  <meta property="twitter:title" content="A manubot test" />
   <meta name="dc.date" content="2025-06-05" />
   <meta name="citation_publication_date" content="2025-06-05" />
   <meta property="article:published_time" content="2025-06-05" />
-  <meta name="dc.modified" content="2025-06-05T17:16:35+00:00" />
-  <meta property="article:modified_time" content="2025-06-05T17:16:35+00:00" />
+  <meta name="dc.modified" content="2025-06-05T17:21:40+00:00" />
+  <meta property="article:modified_time" content="2025-06-05T17:21:40+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Georgia Doing" />
+  <meta name="citation_author_institution" content="Department of Dermatology, Duke Univeristy" />
+  <meta name="citation_author_orcid" content="0000-0002-0835-6955" />
+  <meta name="twitter:creator" content="@None" />
+  <meta name="citation_author" content="Julia Oh" />
+  <meta name="citation_author_institution" content="Department of Dermatology, Duke Univeristy" />
+  <meta name="citation_author_institution" content="Microbiome Center, Duke Univeristy" />
+  <meta name="citation_author_orcid" content="None" />
   <link rel="canonical" href="https://georgiadoing.github.io/paper_test/" />
   <meta property="og:url" content="https://georgiadoing.github.io/paper_test/" />
   <meta property="twitter:url" content="https://georgiadoing.github.io/paper_test/" />
   <meta name="citation_fulltext_html_url" content="https://georgiadoing.github.io/paper_test/" />
   <meta name="citation_pdf_url" content="https://georgiadoing.github.io/paper_test/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://georgiadoing.github.io/paper_test/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://georgiadoing.github.io/paper_test/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/" />
-  <meta name="manubot_html_url_versioned" content="https://georgiadoing.github.io/paper_test/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://georgiadoing.github.io/paper_test/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://georgiadoing.github.io/paper_test/v/b3da2e80a1ca199bdefdb2afe7ba1bc01b873ecb/" />
+  <meta name="manubot_html_url_versioned" content="https://georgiadoing.github.io/paper_test/v/b3da2e80a1ca199bdefdb2afe7ba1bc01b873ecb/" />
+  <meta name="manubot_pdf_url_versioned" content="https://georgiadoing.github.io/paper_test/v/b3da2e80a1ca199bdefdb2afe7ba1bc01b873ecb/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://georgiadoing.github.io/paper_test/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/))
+([permalink](https://georgiadoing.github.io/paper_test/v/b3da2e80a1ca199bdefdb2afe7ba1bc01b873ecb/))
 was automatically generated
-from [georgiadoing/paper_test@ca748bf](https://github.com/georgiadoing/paper_test/tree/ca748bf4e80a830d7bee69a20b1fae18e028d9e6)
+from [georgiadoing/paper_test@b3da2e8](https://github.com/georgiadoing/paper_test/tree/b3da2e80a1ca199bdefdb2afe7ba1bc01b873ecb)
 on June 5, 2025.
 </em></small>
 
@@ -81,38 +81,33 @@ on June 5, 2025.
 
 
 
-+ **John Doe**
++ **Georgia Doing**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0002-0835-6955](https://orcid.org/0000-0002-0835-6955)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)
-    · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}
-    [\@johndoe@mastodon.social](https://mastodon.social/@johndoe)
+    [georgiadoing](https://github.com/georgiadoing)
     <br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
+     Department of Dermatology, Duke Univeristy
+     · Funded by Grant F32XXXXX, LRPXXXXX
   </small>
 
-+ **Jane Roe**
++ **Julia Oh**
   ^[✉](#correspondence)^<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
     [janeroe](https://github.com/janeroe)
     <br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Department of Dermatology, Duke Univeristy; Microbiome Center, Duke Univeristy
+     · Funded by Grant RO1XXX
   </small>
 
 
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/georgiadoing/paper_test/issues)
 or email to
-Jane Roe \<jane.roe@whatever.edu\>.
+Julia Oh \<julia.oh@duke.edu\>.
 
 
 :::
