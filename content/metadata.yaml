@@ -1,5 +1,5 @@
 ---
-title: "Manuscript Title"
+title: "A manubot test"
 date: null  # Defaults to date generated, but can specify like '2022-10-31'.
 keywords:
   - markdown
@@ -7,24 +7,26 @@ keywords:
   - manubot
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    mastodon: johndoe
-    mastodon-server: mastodon.social
-    email: john.doe@something.com
+  - github: georgiadoing
+    name: Georgia Doing
+    initials: GD
+    orcid: 0000-0002-0835-6955
+    twitter: 
+    mastodon: 
+    mastodon-server: 
+    email: georgia.doing@duke.edu
     affiliations:
-      - Department of Something, University of Whatever
+      - Department of Dermatology, Duke Univeristy
     funders:
-      - Grant XXXXXXXX
+      - Grant F32XXXXX, LRPXXXXX
   - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+    name: Julia Oh
+    initials: JO
+    orcid: 
+    email: julia.oh@duke.edu
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Department of Dermatology, Duke Univeristy
+      - Microbiome Center, Duke Univeristy
+    funders:
+      - Grant RO1XXX
     corresponding: true
