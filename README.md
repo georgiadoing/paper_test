@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/georgiadoing/paper_test/tree/gh-pages) branch hosts the contents of this directory at <https://georgiadoing.github.io/paper_test/>.
-The permalink for this webpage version is <https://georgiadoing.github.io/paper_test/v/0844157a70d80bb625e006914ece70645fb68ccd/>.
+The permalink for this webpage version is <https://georgiadoing.github.io/paper_test/v/069190514b64d2cf4deca0a083d104f9cccc8040/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://georgiadoing.github.io/paper_test/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`0844157a70d80bb625e006914ece70645fb68ccd`](https://github.com/georgiadoing/paper_test/commit/0844157a70d80bb625e006914ece70645fb68ccd).
+[`069190514b64d2cf4deca0a083d104f9cccc8040`](https://github.com/georgiadoing/paper_test/commit/069190514b64d2cf4deca0a083d104f9cccc8040).
