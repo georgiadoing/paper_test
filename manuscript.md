@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2025-06-05'
+date-meta: '2025-07-01'
 author-meta:
 - Georgia Doing
 - Julia Oh
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="A manubot test" />
   <meta property="og:title" content="A manubot test" />
   <meta property="twitter:title" content="A manubot test" />
-  <meta name="dc.date" content="2025-06-05" />
-  <meta name="citation_publication_date" content="2025-06-05" />
-  <meta property="article:published_time" content="2025-06-05" />
-  <meta name="dc.modified" content="2025-06-05T17:21:40+00:00" />
-  <meta property="article:modified_time" content="2025-06-05T17:21:40+00:00" />
+  <meta name="dc.date" content="2025-07-01" />
+  <meta name="citation_publication_date" content="2025-07-01" />
+  <meta property="article:published_time" content="2025-07-01" />
+  <meta name="dc.modified" content="2025-07-01T17:21:33+00:00" />
+  <meta property="article:modified_time" content="2025-07-01T17:21:33+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://georgiadoing.github.io/paper_test/" />
   <meta name="citation_pdf_url" content="https://georgiadoing.github.io/paper_test/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://georgiadoing.github.io/paper_test/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://georgiadoing.github.io/paper_test/v/b3da2e80a1ca199bdefdb2afe7ba1bc01b873ecb/" />
-  <meta name="manubot_html_url_versioned" content="https://georgiadoing.github.io/paper_test/v/b3da2e80a1ca199bdefdb2afe7ba1bc01b873ecb/" />
-  <meta name="manubot_pdf_url_versioned" content="https://georgiadoing.github.io/paper_test/v/b3da2e80a1ca199bdefdb2afe7ba1bc01b873ecb/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://georgiadoing.github.io/paper_test/v/752289f88d61fdaf09c8a628bc0fed4e4d464f85/" />
+  <meta name="manubot_html_url_versioned" content="https://georgiadoing.github.io/paper_test/v/752289f88d61fdaf09c8a628bc0fed4e4d464f85/" />
+  <meta name="manubot_pdf_url_versioned" content="https://georgiadoing.github.io/paper_test/v/752289f88d61fdaf09c8a628bc0fed4e4d464f85/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://georgiadoing.github.io/paper_test/v/b3da2e80a1ca199bdefdb2afe7ba1bc01b873ecb/))
+([permalink](https://georgiadoing.github.io/paper_test/v/752289f88d61fdaf09c8a628bc0fed4e4d464f85/))
 was automatically generated
-from [georgiadoing/paper_test@b3da2e8](https://github.com/georgiadoing/paper_test/tree/b3da2e80a1ca199bdefdb2afe7ba1bc01b873ecb)
-on June 5, 2025.
+from [georgiadoing/paper_test@752289f](https://github.com/georgiadoing/paper_test/tree/752289f88d61fdaf09c8a628bc0fed4e4d464f85)
+on July 1, 2025.
 </em></small>
 
 
@@ -140,17 +140,16 @@ Combined *italics and __bold__*
 
 ~~Strikethrough~~
 
-1. Ordered list item
 2. Ordered list item
-    a. Sub-item
-    b. Sub-item
-        i. Sub-sub-item
-3. Ordered list item
-    a. Sub-item
+Ordered list item 2.
+Ordered list item a.
+Sub-item b.
+Sub-item i.
+Sub-sub-item 3.
+Ordered list item a.
+Sub-item
 
-- List item
-- List item
-- List item
+- List item - List item - List item
 
 subscript: H~2~O is a liquid
 
@@ -160,16 +159,21 @@ superscript: 2^10^ is 1024.
 
 [unicode subscripts](https://www.google.com/search?q=superscript+generator)₀₁₂₃₄₅₆₇₈₉
 
+<!--
+ERROR: the paragraph below could not be revised with the AI model due to the following error:
+
+Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+-->
 A long paragraph of text.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+
 Putting each sentence on its own line has numerous benefits with regard to [editing](https://asciidoctor.org/docs/asciidoc-recommended-practices/#one-sentence-per-line) and [version control](https://rhodesmill.org/brandon/2012/one-sentence-per-line/).
 
-Line break without starting a new paragraph by putting  
-two spaces at end of line.
+Line break without starting a new paragraph by putting two spaces at end of line.
 
 ## Document organization
 
@@ -234,7 +238,8 @@ Citation by alias [@deep-review].
 Multiple citations can be put inside the same set of brackets [@doi:10.7554/eLife.32822; @deep-review; @isbn:9780262517638].
 Manubot plugins provide easier, more convenient visualization of and navigation between citations [@doi:10.1371/journal.pcbi.1007128; @pubmed:30718888; @pmc:PMC6103790; @deep-review].
 
-Citation tags (i.e. aliases) can be defined in their own paragraphs using Markdown's reference link syntax:
+Citation tags (i.e.
+aliases) can be defined in their own paragraphs using Markdown's reference link syntax:
 
 [@deep-review]: doi:10.1098/rsif.2017.0387
 
@@ -258,11 +263,7 @@ Equation @eq:long-equation
 
 > Quoted text
 
-> Quoted block of text
->
-> Two roads diverged in a wood, and I—  
-> I took the one less traveled by,  
-> And that has made all the difference.
+> Quoted block of text > > Two roads diverged in a wood, and I— > I took the one less traveled by, > And that has made all the difference.
 
 Code `in the middle` of normal text, aka `inline code`.
 
