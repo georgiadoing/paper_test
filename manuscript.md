@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-07-01" />
   <meta name="citation_publication_date" content="2025-07-01" />
   <meta property="article:published_time" content="2025-07-01" />
-  <meta name="dc.modified" content="2025-07-01T20:00:47+00:00" />
-  <meta property="article:modified_time" content="2025-07-01T20:00:47+00:00" />
+  <meta name="dc.modified" content="2025-07-01T20:24:40+00:00" />
+  <meta property="article:modified_time" content="2025-07-01T20:24:40+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://georgiadoing.github.io/paper_test/" />
   <meta name="citation_pdf_url" content="https://georgiadoing.github.io/paper_test/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://georgiadoing.github.io/paper_test/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://georgiadoing.github.io/paper_test/v/8ff7009a71d5326cd42d445004039bee3ed30628/" />
-  <meta name="manubot_html_url_versioned" content="https://georgiadoing.github.io/paper_test/v/8ff7009a71d5326cd42d445004039bee3ed30628/" />
-  <meta name="manubot_pdf_url_versioned" content="https://georgiadoing.github.io/paper_test/v/8ff7009a71d5326cd42d445004039bee3ed30628/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://georgiadoing.github.io/paper_test/v/e0430d5da4de899c144861e386b7ec516d456c0a/" />
+  <meta name="manubot_html_url_versioned" content="https://georgiadoing.github.io/paper_test/v/e0430d5da4de899c144861e386b7ec516d456c0a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://georgiadoing.github.io/paper_test/v/e0430d5da4de899c144861e386b7ec516d456c0a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://georgiadoing.github.io/paper_test/v/8ff7009a71d5326cd42d445004039bee3ed30628/))
+([permalink](https://georgiadoing.github.io/paper_test/v/e0430d5da4de899c144861e386b7ec516d456c0a/))
 was automatically generated
-from [georgiadoing/paper_test@8ff7009](https://github.com/georgiadoing/paper_test/tree/8ff7009a71d5326cd42d445004039bee3ed30628)
+from [georgiadoing/paper_test@e0430d5](https://github.com/georgiadoing/paper_test/tree/e0430d5da4de899c144861e386b7ec516d456c0a)
 on July 1, 2025.
 </em></small>
 
@@ -126,6 +126,22 @@ Discussion: These methods for identifying microbial gene function are important 
 
 
 ## Introduction {.page_break_before}
+
+Testing a citation @doi:10.1016/j.crmeth.2024.100832 and @pmc:PMC11774034.
+
+Also testing tables
+
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| value_a | 1 | 47 |
+| value_b | 2 | 56 |
+
+Table: Caption for this example table. {#tbl:example-id}
+
+
+And lastly, figures
+
+![Ginny stamp](images/ginny_stamp_pic.png){height="13px",#fig:example-id}
 
 ## References {.page_break_before}
 
