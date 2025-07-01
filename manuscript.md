@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-07-01" />
   <meta name="citation_publication_date" content="2025-07-01" />
   <meta property="article:published_time" content="2025-07-01" />
-  <meta name="dc.modified" content="2025-07-01T19:34:15+00:00" />
-  <meta property="article:modified_time" content="2025-07-01T19:34:15+00:00" />
+  <meta name="dc.modified" content="2025-07-01T20:00:47+00:00" />
+  <meta property="article:modified_time" content="2025-07-01T20:00:47+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://georgiadoing.github.io/paper_test/" />
   <meta name="citation_pdf_url" content="https://georgiadoing.github.io/paper_test/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://georgiadoing.github.io/paper_test/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://georgiadoing.github.io/paper_test/v/069190514b64d2cf4deca0a083d104f9cccc8040/" />
-  <meta name="manubot_html_url_versioned" content="https://georgiadoing.github.io/paper_test/v/069190514b64d2cf4deca0a083d104f9cccc8040/" />
-  <meta name="manubot_pdf_url_versioned" content="https://georgiadoing.github.io/paper_test/v/069190514b64d2cf4deca0a083d104f9cccc8040/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://georgiadoing.github.io/paper_test/v/8ff7009a71d5326cd42d445004039bee3ed30628/" />
+  <meta name="manubot_html_url_versioned" content="https://georgiadoing.github.io/paper_test/v/8ff7009a71d5326cd42d445004039bee3ed30628/" />
+  <meta name="manubot_pdf_url_versioned" content="https://georgiadoing.github.io/paper_test/v/8ff7009a71d5326cd42d445004039bee3ed30628/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://georgiadoing.github.io/paper_test/v/069190514b64d2cf4deca0a083d104f9cccc8040/))
+([permalink](https://georgiadoing.github.io/paper_test/v/8ff7009a71d5326cd42d445004039bee3ed30628/))
 was automatically generated
-from [georgiadoing/paper_test@0691905](https://github.com/georgiadoing/paper_test/tree/069190514b64d2cf4deca0a083d104f9cccc8040)
+from [georgiadoing/paper_test@8ff7009](https://github.com/georgiadoing/paper_test/tree/8ff7009a71d5326cd42d445004039bee3ed30628)
 on July 1, 2025.
 </em></small>
 
