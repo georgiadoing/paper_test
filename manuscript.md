@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-07-01" />
   <meta name="citation_publication_date" content="2025-07-01" />
   <meta property="article:published_time" content="2025-07-01" />
-  <meta name="dc.modified" content="2025-07-01T17:21:33+00:00" />
-  <meta property="article:modified_time" content="2025-07-01T17:21:33+00:00" />
+  <meta name="dc.modified" content="2025-07-01T17:44:01+00:00" />
+  <meta property="article:modified_time" content="2025-07-01T17:44:01+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://georgiadoing.github.io/paper_test/" />
   <meta name="citation_pdf_url" content="https://georgiadoing.github.io/paper_test/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://georgiadoing.github.io/paper_test/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://georgiadoing.github.io/paper_test/v/752289f88d61fdaf09c8a628bc0fed4e4d464f85/" />
-  <meta name="manubot_html_url_versioned" content="https://georgiadoing.github.io/paper_test/v/752289f88d61fdaf09c8a628bc0fed4e4d464f85/" />
-  <meta name="manubot_pdf_url_versioned" content="https://georgiadoing.github.io/paper_test/v/752289f88d61fdaf09c8a628bc0fed4e4d464f85/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://georgiadoing.github.io/paper_test/v/0844157a70d80bb625e006914ece70645fb68ccd/" />
+  <meta name="manubot_html_url_versioned" content="https://georgiadoing.github.io/paper_test/v/0844157a70d80bb625e006914ece70645fb68ccd/" />
+  <meta name="manubot_pdf_url_versioned" content="https://georgiadoing.github.io/paper_test/v/0844157a70d80bb625e006914ece70645fb68ccd/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://georgiadoing.github.io/paper_test/v/752289f88d61fdaf09c8a628bc0fed4e4d464f85/))
+([permalink](https://georgiadoing.github.io/paper_test/v/0844157a70d80bb625e006914ece70645fb68ccd/))
 was automatically generated
-from [georgiadoing/paper_test@752289f](https://github.com/georgiadoing/paper_test/tree/752289f88d61fdaf09c8a628bc0fed4e4d464f85)
+from [georgiadoing/paper_test@0844157](https://github.com/georgiadoing/paper_test/tree/0844157a70d80bb625e006914ece70645fb68ccd)
 on July 1, 2025.
 </em></small>
 
@@ -140,14 +140,13 @@ Combined *italics and __bold__*
 
 ~~Strikethrough~~
 
+1. Ordered list item
 2. Ordered list item
-Ordered list item 2.
-Ordered list item a.
-Sub-item b.
-Sub-item i.
-Sub-sub-item 3.
-Ordered list item a.
-Sub-item
+    a. Sub-item
+    b. Sub-item
+        i. Sub-sub-item
+3. Ordered list item
+    a. Sub-item
 
 - List item - List item - List item
 
